@@ -1,1 +1,3 @@
-def main():\n    print('Tool running')
+def main():
+    print("Tool running")
+notepad main.py
